@@ -1,9 +1,9 @@
 # Weather-App
-Application to retrieve the weather for a particular city
+Application that forecasts the weather for a given location through OpenWeather API
 
 # What I learnt
--> GUI development using Tkinter
+* GUI development using Tkinter
+* Parse JSON data
+* Update UI with API's data
 
--> Json parsing
 
--> Obtaining data from openweathermap.org
