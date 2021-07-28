@@ -1,15 +1,16 @@
-# Simple Weather App 🌤️
+# Simple Weather Application 🌤️
 
 # Before you get started ⏸️
-* Get your free API key from the OpenWeatherMap website.
-* Replace `<api_key>` with this API key.
+* Get your free API key from the OpenWeatherMap website. Must create an account in order to do so.
+
 
 # About 💻
-A simple application that forecasts the weather for a given location through OpenWeather API
+A simple application that allows the user to check the weather forecast for a given location
 
 # What I learnt 🚀
+* Use the OpenWeather API with Python 
 * Parse JSON data
-* Update UI with API's data
+* Update UI with retrieved weather data.
 * GUI development using Tkinter
 
 
