@@ -5,12 +5,13 @@
 
 
 # About 💻
-A simple application that allows the user to check the weather forecast for a given location
+A simple application that allows the user to check the weather forecast for a given city.
 
 # What I learnt 🚀
-* Use the OpenWeather API with Python 
-* Working with JSON Data in Python
-* Update UI with retrieved data from API.
-* GUI development using Tkinter
+* Use the OpenWeather API with Python.
+* Using `requests.get()` to get data from the OpenWeather API.
+* Working with JSON data to extract the useful weather data for a given city. 
+* Update UI with the extracted JSON data.
+* GUI development using Tkinter.
 
 
