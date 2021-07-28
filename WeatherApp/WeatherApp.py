@@ -49,9 +49,9 @@ def format_response(weather_json):
 
 #retrieve weather function by passing in a city name
 def get_weather(city):
-    weather_key = 'c7166a993a9a861be266e5ad6315185e'
+    weather_key = 'yourAPIKey'
     url = 'https://api.openweathermap.org/data/2.5/weather'
-    params = {'APPID': 'c7166a993a9a861be266e5ad6315185e', 'q': city, 'units':'imperial'}
+    params = {'APPID': 'yourAPIKey', 'q': city, 'units':'imperial'}
     response = requests.get(url, params=params)
     #print(response.json())
     weather_json = response.json()
