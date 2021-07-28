@@ -10,7 +10,7 @@ A simple application that allows the user to check the weather forecast for a gi
 # What I learnt 🚀
 * Using the OpenWeather API with Python.
 * Using `requests.get()` to get data from the OpenWeather API.
-* Using `response.json()` used to access payload weather data in the JSON serialized format
+* Using `response.json()` used to access weather data in the JSON serialized format
 * Extracting the useful weather data for a given city & update UI
 * GUI development using Tkinter.
 
