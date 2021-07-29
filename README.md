@@ -5,9 +5,10 @@
 
 
 # About 💻
-A simple application that allows the user to check the weather forecast for a given city.
+A simple weather application that allows the user to check the weather forecast for a given city.
 
 # What I learnt 🚀
+* Python GUI development using `Tkinter`.
 * Using the OpenWeather API with Python.
 * Using `requests.get()` to get data from the OpenWeather API.
 * Using `response.json()` used to access weather data in a JSON serialized format
@@ -25,6 +26,5 @@ A simple application that allows the user to check the weather forecast for a gi
         final_str = 'There was a problem retrieving that information'
         return final_str
 ```
-* GUI development using Tkinter.
 
 
