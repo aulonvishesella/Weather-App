@@ -24,7 +24,7 @@ A simple weather application that allows the user to check the weather forecast 
         final_str = 'City: %s \nConditions: %s \nTemperature (°C): %s' % (city, conditions, temp)
     except:
         final_str = 'There was a problem retrieving that information'
-        return final_str
+    return final_str
 ```
 
 
