@@ -9,7 +9,6 @@ A simple weather application that allows the user to check the weather forecast 
 
 # What I learnt 🚀
 * Python GUI development using `Tkinter`.
-* Using the OpenWeather API with Python.
 * Using `requests.get()` to get data from the OpenWeather API.
 * Using `response.json()` used to access weather data in a JSON serialized format
 * Extracted JSON objects from the API and formatted them to display it on the UI 
